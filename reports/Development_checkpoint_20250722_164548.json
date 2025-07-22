@@ -1,0 +1,28 @@
+{
+  "specs": {},
+  "functional_spec_count": {},
+  "testsuites": [
+    {
+      "cases": [
+        {
+          "classname": "Hw.test_register",
+          "name": "test_registration_valid",
+          "developer": "-",
+          "test_description": "",
+          "status": "Passed",
+          "logs": "<ul style='list-style-type: none; padding: 0;'></ul>",
+          "details": "",
+          "functional_specifications": [],
+          "categories": []
+        }
+      ]
+    }
+  ],
+  "test_environment": "Development",
+  "timestamp": "22 Jul 2025, 16:46",
+  "img_url": "https://icon.icepanel.io/Technology/svg/pytest.svg",
+  "test_status": "complete",
+  "report_title": "pytest HTML Report",
+  "category_count": {},
+  "all_categories": []
+}
